@@ -1197,6 +1197,16 @@ xeDex@ubuntu:~/OS_LABS/LAB_1$ echo "0   string   XEDEX'S_MAGIC    CustomFile_:)
 xeDex@ubuntu:~/OS_LABS/LAB_1$ file -m magic/magic_number magic/xeDex
 magic/xeDex: CustomFile_:)
 
+xeDex@ubuntu:~/OS_LABS/LAB_1$ cat magic/xeDex 
+XEDEX'S_MAGIC
+
+░░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄██▄▄▄▄▄▄▄▄▄░░░░▄░
+▄███████████████████████▀▀▀▀▀▀▀██████▀
+██████▀▀▀░▄██▀░░▀███░░░░░░░░░░░░░░░░░░
+▀▀▀▀░░░░░░██░░░░░▀██▄░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░▀███▄░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░▀▀░░░░░░░░░░░░░░░░
+
 
 
 
